@@ -274,6 +274,19 @@
       "Total": 40000,
       "gender" : "male"
      
+    },
+    {
+      "id": 21,
+      "name": "Jemima",
+      "Task1": 20,
+      "Task2": 70,
+      "Task3": 50,
+      "Task4": 2,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 70000,
+      "gender" : "female"
+     
     }
   ]
 
